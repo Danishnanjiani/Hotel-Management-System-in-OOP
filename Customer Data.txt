@@ -1,0 +1,21 @@
+R  	NAME          CONTACT             CITY               	ROOM
+
+1  	Ali           12345678901         KARACHI       	Economy
+
+2	Abbas         12312312312         LAHORE        	Executive
+
+3	Abid          23423423423         ISLAMABAD    		Executive
+
+4	Taha          03331212132         KARACHI       	Economy
+
+5	Danial        99999999900         FAISALABAD    	Executive
+
+6	Hammad        11111111111         LAHORE        	Executive
+
+
+
+7	danish		2147483647	karachi		Executive
+
+7	ammar		2147483647	karachi		Executive
+
+7	fghjk		2147483647	dfgh		Executive

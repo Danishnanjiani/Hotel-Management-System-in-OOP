@@ -1,0 +1,17 @@
+E	NAME          CONTACT             CITY                 	JOB
+
+1	Abid          23423423423         KARACHI      		Room service
+
+2	Taha          03331212132         KARACHI      		Reception
+
+3	Danial        99999999900         LAHORE      		Reception
+
+4	Hammad        11111111111         FAISALABAD      	Kitchen
+
+5	Dhanesh       22222222222         LAHORE      		Room service
+
+6	Zain          32432432422         KARACHI      		Room service 
+
+
+
+
